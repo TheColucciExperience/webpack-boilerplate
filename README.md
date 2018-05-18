@@ -1,6 +1,11 @@
 # webpack-boilerplate
+
 A simple webpack boilerplate for single page projects. It contains support for
 development and production environments and it's easily extensible.
+
+## Installation
+
+Simply run `npm install` to install all of the project's dependencies.
 
 ## Usage
 
