@@ -8,7 +8,7 @@ Webpack boilerplate contains the setup that no one wants to do. It uses plugins
 and loaders to enable `scss` files, `js` files, `html` files and images as well.
 Also 'webpack-dev-server' is setup for ease of development. To start a production
 environment run `npm start` and a browser window will pop up. There's already
-some default template, but with can easily edit the files in the `src` folder to
+some default template, but you can easily edit the files in the `src` folder to
 get the desired result. If you want to compile the `dist` folder for production,
 run `npm build`.
 
