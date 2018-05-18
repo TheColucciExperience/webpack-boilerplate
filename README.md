@@ -24,13 +24,6 @@ and take care of reloading the browser and fetching any files you need
 automatically. If you just need the files for deployment after you finish
 development, you can run `npm build` and your `dist` folder will be ready.
 
-## Security
-
-Some dependencies of plugins or loaders may have known vulnerabilities. Run
-`npm audit` to check for vulnerabilities and correct them. If a vulnerable
-loader/plugin has a known vulnerability and hasn't been patched, you can try to
-find alternate ones to do the job in a secure way.
-
 ## Extending and contributing
 
 If you have a basic understanding of webpack you can easily add any plugins and/or
