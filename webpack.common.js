@@ -31,8 +31,7 @@ module.exports = {
       }
     ]
   },
-  plugins: [
-    new CleanWebpackPlugin( ['./dist/'] ),
+  plugins: [    
     new HtmlWebpackPlugin( {
       title: 'Plugin Output',
       template: 'src/index.html',
