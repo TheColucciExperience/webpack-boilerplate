@@ -1,8 +1,7 @@
 
 // Getting all necessary loaders and plugins
 
-const path = require( 'path' ),
-  CleanWebpackPlugin = require( 'clean-webpack-plugin' ),
+const path = require( 'path' ),  
   HtmlWebpackPlugin = require( 'html-webpack-plugin' );
 
 module.exports = {
